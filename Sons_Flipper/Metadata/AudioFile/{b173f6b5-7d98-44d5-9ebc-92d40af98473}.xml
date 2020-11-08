@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{b173f6b5-7d98-44d5-9ebc-92d40af98473}">
+        <property name="assetPath">
+            <value>Pistol Shot 9mm Semi-Auto 06.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.77605442176870754</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+        </relationship>
+    </object>
+</objects>

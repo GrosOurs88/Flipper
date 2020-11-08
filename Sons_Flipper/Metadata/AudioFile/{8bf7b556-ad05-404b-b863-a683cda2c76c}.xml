@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{8bf7b556-ad05-404b-b863-a683cda2c76c}">
+        <property name="assetPath">
+            <value>Benelli 12 Gauge Shotgun Blast 01.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.643718820861678</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+        </relationship>
+    </object>
+</objects>

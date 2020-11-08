@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{bb736585-959e-4328-8cd5-27618b700fe8}">
+        <property name="assetPath">
+            <value>Pulsar Shot.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.2378231292517006</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{9ca4d7cd-6921-4a83-a610-786be233dc1c}">
+        <property name="assetPath">
+            <value>Arm Whoosh 07.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.79462585034013611</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+        </relationship>
+    </object>
+</objects>

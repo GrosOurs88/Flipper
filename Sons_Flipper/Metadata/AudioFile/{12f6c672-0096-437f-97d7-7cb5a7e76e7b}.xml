@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{12f6c672-0096-437f-97d7-7cb5a7e76e7b}">
+        <property name="assetPath">
+            <value>Mega Face Punch 02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.56115646258503404</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+        </relationship>
+    </object>
+</objects>

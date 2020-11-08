@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{56c159d7-6493-4f7a-808b-8730fcc7c35a}">
+		<property name="assetPath">
+			<value>Devil's Crush - Main Stage Theme - TurboGrafx-16.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>216.81632653061226</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76b72909-f63d-4bcd-9843-d62789668493}</destination>
+		</relationship>
+	</object>
+</objects>
