@@ -6,12 +6,14 @@ using UnityEngine.SceneManagement;
 public class LancementBalle : MonoBehaviour
 {
     public GameObject bille;
-    public Transform launcher; 
     public float puissance;
+    [HideInInspector]
+    public Transform launcher;
     private Rigidbody rgBille;
 
     void Start()
     {
+        launcher = GetComponent<Transform>();
         newball(bille, launcher, puissance);
     }
 
