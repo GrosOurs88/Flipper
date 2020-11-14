@@ -6,11 +6,11 @@ public class ButScript : MonoBehaviour
 {
     public GameObject launcher;
     public float timerWaitANewBall;
-    LancementBalle lancementBalle;
+    LancementBalleScript lancementBalleScript;
 
     private void Start()
     {
-        lancementBalle = launcher.GetComponent<LancementBalle>();
+        lancementBalleScript = launcher.GetComponent<LancementBalleScript>();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -26,6 +26,6 @@ public class ButScript : MonoBehaviour
     {
         yield return new WaitForSeconds(_timer);
 
-        lancementBalle.newball(lancementBalle.bille, lancementBalle.launcher, lancementBalle.puissance);
+        lancementBalleScript.newball(lancementBalleScript.bille, lancementBalleScript.launcher, lancementBalleScript.puissance);
     }
 }

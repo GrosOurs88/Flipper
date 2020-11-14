@@ -64,14 +64,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BallScript.cs" />
-    <Compile Include="Assets\Scripts\Boutons_quit_and_replay.cs" />
-    <Compile Include="Assets\Scripts\Bumper.cs" />
+    <Compile Include="Assets\Scripts\BoutonsQuitAndReplayScript.cs" />
+    <Compile Include="Assets\Scripts\BumperScript.cs" />
     <Compile Include="Assets\Scripts\ButScript.cs" />
-    <Compile Include="Assets\Scripts\Collision_Sounds.cs" />
-    <Compile Include="Assets\Scripts\FlipperTriggerAutoActivation.cs" />
-    <Compile Include="Assets\Scripts\FlippersInput.cs" />
-    <Compile Include="Assets\Scripts\GameMgr.cs" />
-    <Compile Include="Assets\Scripts\LancementBalle.cs" />
+    <Compile Include="Assets\Scripts\CibleFixeScript.cs" />
+    <Compile Include="Assets\Scripts\CibleTombanteScript.cs" />
+    <Compile Include="Assets\Scripts\CollisionSoundsScript.cs" />
+    <Compile Include="Assets\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\Scripts\FlipperTriggerAutoActivationScript.cs" />
+    <Compile Include="Assets\Scripts\FlippersInputScript.cs" />
+    <Compile Include="Assets\Scripts\GameManagerScript.cs" />
+    <Compile Include="Assets\Scripts\LancementBalleScript.cs" />
     <Compile Include="Assets\TeleporterScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
